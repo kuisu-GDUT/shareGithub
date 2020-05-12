@@ -1,0 +1,1 @@
+#通过git或者pycharm将本地文档上传到github上面去
